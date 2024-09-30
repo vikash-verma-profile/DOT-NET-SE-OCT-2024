@@ -3,3 +3,11 @@ git clone https://github.com/vikash-verma-profile/DOT-NET-SE-OCT-2024.git
 
 git add .
 ==> add all  new and modified files to a chunck that to be moved to server
+
+git commit -m "any message"
+
+git branch -M main
+
+==> link main branch to server
+=git push -u origin main
+
