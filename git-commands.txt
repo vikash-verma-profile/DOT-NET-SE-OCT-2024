@@ -1,0 +1,5 @@
+clone your project on local machine
+git clone https://github.com/vikash-verma-profile/DOT-NET-SE-OCT-2024.git
+
+git add .
+==> add all  new and modified files to a chunck that to be moved to server
