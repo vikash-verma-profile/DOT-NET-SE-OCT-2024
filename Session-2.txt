@@ -1,0 +1,22 @@
+Types of parameters
+1.Default values
+2.Named parameters
+
+ref (value type vs refence type)
+ref vs out
+var vs dynamic
+arrays
+types of arrays
+
+
+Create a program that will swap two numbers by using a method
+
+a=1
+b=3
+after swapping
+a=3
+b=1
+
+write a program to get sum of 10 number
+
+
