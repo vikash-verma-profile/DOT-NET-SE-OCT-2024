@@ -1,0 +1,10 @@
+Problem statement
+When we retrieve user information from a database. The age field might be null for some users. A nullable int helps to handle this case without causing error.
+
+Check a given string is palindrome or not
+
+MAM==reverse==> MAM
+
+
+Create a small C# application to manage a Library System. Each book in the library has fields such as title, author, and number of pages, as well as availability status. You need to create a Book class that will represent individual books in the library and manage their data using fields and methods.
+
