@@ -1,0 +1,21 @@
+Write a C# program that:
+
+Defines a class BankAccount with attributes AccountNumber, AccountHolderName, and Balance.
+Has a constructor that initializes AccountNumber, AccountHolderName, and sets Balance to 0.
+Includes a method Deposit to add a specified amount to the balance.
+Has another method Withdraw to deduct a specified amount from the balance, with a check to prevent overdrafts.
+Uses a destructor to display a message when the object is destroyed.
+Demonstrates object creation, method usage, and outputs results.
+
+
+Create a console application by using an employee class
+-ID
+-Name
+
+array,for loop,switch,functions
+1.Add a employee
+2.Delete an employee
+3.Edit an employee
+4.List Employee
+5.Exit
+
