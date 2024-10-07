@@ -1,0 +1,49 @@
+Create a Person Structure
+-Name
+-Age
+-Adrees==> type of stucture
+
+Create a Address Structure
+-city
+-state
+
+Print Details of Person along with adress
+
+Create a program 
+
+Cerate a class Parimeter
+{
+
+enum shapes{
+-circle
+-square
+} 
+
+public void peri(int val,shapes ){
+if({
+)
+}
+}
+==>have shapes enum ()name
+
+
+
+
+==> Main method
+--Call peri method and that will have two argumuments 
+	-Val==> used to caluclate peri
+	- Shapes==> shapes enum to apply formula to calculate the primeter
+
+
+
+Create a simple program that models a Vehicle hierarchy. The base class is Vehicle, the next level is Car (which inherits from Vehicle), and the final level is ElectricCar (which inherits from Car).
+
+Each class should have its own properties and methods as described below:
+
+Vehicle should have properties for Brand and Speed. It should have a method called DisplayDetails() that shows these details.
+Car should add a property for FuelType and DisplayDetails() to include the fuel type.
+ElectricCar should add a property for BatteryCapacity and DisplayDetails() to include the battery capacity.
+Task:
+Implement the classes Vehicle, Car, and ElectricCar using multilevel inheritance.
+In the Main() method, create an instance of ElectricCar and set its properties.
+Call the DisplayDetails() method to show the details of the electric car.
