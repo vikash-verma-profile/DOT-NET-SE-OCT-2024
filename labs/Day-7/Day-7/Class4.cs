@@ -49,7 +49,7 @@ namespace Day_7
     }
     internal class Class4
     {
-        public static void Main()
+        public static void Main4()
         {
             SampleConst s =SampleConst.GetInstance();
             s.Print();
