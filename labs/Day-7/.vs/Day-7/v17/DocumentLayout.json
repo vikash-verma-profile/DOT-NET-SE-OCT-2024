@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2D363BFA-B664-4D18-9301-D70ED79526B7}|Day-7\\Day-7.csproj|c:\\users\\level up solutions 1\\desktop\\dot-net-se-oct-2024\\labs\\day-7\\day-7\\class11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D363BFA-B664-4D18-9301-D70ED79526B7}|Day-7\\Day-7.csproj|solutionrelative:day-7\\class11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D363BFA-B664-4D18-9301-D70ED79526B7}|Day-7\\Day-7.csproj|c:\\users\\level up solutions 1\\desktop\\dot-net-se-oct-2024\\labs\\day-7\\day-7\\class10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D363BFA-B664-4D18-9301-D70ED79526B7}|Day-7\\Day-7.csproj|solutionrelative:day-7\\class10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,22 +24,9 @@
               "RelativeDocumentMoniker": "Day-7\\Class11.cs",
               "ToolTip": "C:\\Users\\Level Up Solutions 1\\Desktop\\DOT-NET-SE-OCT-2024\\labs\\Day-7\\Day-7\\Class11.cs",
               "RelativeToolTip": "Day-7\\Class11.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAAB8AAAAbAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAoAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T07:42:12.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class10.cs",
-              "DocumentMoniker": "C:\\Users\\Level Up Solutions 1\\Desktop\\DOT-NET-SE-OCT-2024\\labs\\Day-7\\Day-7\\Class10.cs",
-              "RelativeDocumentMoniker": "Day-7\\Class10.cs",
-              "ToolTip": "C:\\Users\\Level Up Solutions 1\\Desktop\\DOT-NET-SE-OCT-2024\\labs\\Day-7\\Day-7\\Class10.cs",
-              "RelativeToolTip": "Day-7\\Class10.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAABwAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T07:27:22.645Z",
               "EditorCaption": ""
             }
           ]

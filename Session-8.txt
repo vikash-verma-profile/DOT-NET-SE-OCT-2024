@@ -1,0 +1,55 @@
+Develop a C# console application that processes customer orders and handles potential issues gracefully using proper exception handling techniques.
+
+1.User Input Validation:
+
+The application should prompt the user to enter a product price and quantity.
+Validate that the user input is numeric and positive. If the input is invalid, display a meaningful error message and prompt for the input again.
+
+Input:
+
+Enter the product price: 100
+Enter the quantity: 6
+Output:
+
+Processing order...
+Total Order Amount: $600
+Applying 10% discount...
+Discount applied successfully. Final Total: $540
+Order processed successfully.
+
+
+2.Order Processing:
+
+The program should calculate the total order amount (price * quantity).
+
+Input:
+Enter the product price: abc
+Output:
+
+Invalid input. Please enter a valid numeric value for the price.
+Enter the product price: 100
+Scenario 3: Invalid Input (Negative Quantity)
+
+
+3. Discount Calculation:
+
+If the total order amount exceeds $500, apply a 10% discount.
+If the discount calculation fails due to an internal logic issue (simulated using a random error), throw and handle an InvalidOperationException.
+Input
+Enter the product price: 200
+Enter the quantity: -5
+Output
+Enter the product price: 200
+Enter the quantity: -5
+
+
+System.Collections   System.Collections.Generic 
+Non-genric   Generic ==> type
+ArrayList	List
+HashTable	Dictionary
+SortedList	SortedList
+Stack		Stack
+Queue		Queue
+
+
+
