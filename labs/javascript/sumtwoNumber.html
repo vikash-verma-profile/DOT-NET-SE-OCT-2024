@@ -1,0 +1,28 @@
+<html>
+
+<body>
+    <h1>Add two Numbers </h1>
+    <form>
+
+       Number 1<input type="text" id="txtNumber1" />
+        <br />
+        <br />
+        Number 2<input type="text" id="txtNumber2" />
+        <br />
+        <br />
+        <input type="button" value="Add" onclick="Sum()"/>
+        <br />
+        <label id="txtOutput"></label>
+    </form>
+</body>
+
+</html>
+
+<script>
+function Sum(){
+    var Number1=document.getElementById('txtNumber1').value;
+    var Number2=document.getElementById('txtNumber2').value;
+    document.getElementById('txtOutput').innerHTML=Number(Number1)+Number(Number2);
+}
+
+</script>

@@ -1,0 +1,35 @@
+<html>
+
+<body>
+    <h1>Contact Us </h1>
+    <form>
+
+        First Name<input type="text" id="txtFirstName" />
+        <br />
+        <br />
+        Last Name<input type="text" id="txtLastName" />
+        <br />
+        <br />
+        Message<input type="text" id="txtMessage"/>
+        <br />
+        <br />
+        <input type="button" value="Submit" onclick="validate()"/>
+        <br />
+        <label id="txtOutput"></label>
+    </form>
+</body>
+
+</html>
+
+<script>
+function validate(){
+    var firstName=document.getElementById('txtFirstName').value;
+    var lastName=document.getElementById('txtLastName').value;
+    var message=document.getElementById('txtMessage').value;
+    document.getElementById('txtOutput').innerHTML=`FirstName : ${firstName} ,LastName : ${lastName} ,Message : ${message}`;
+    console.log(firstName);
+    console.log(lastName);
+    console.log(message);
+}
+
+</script>

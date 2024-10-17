@@ -1,0 +1,9 @@
+Create a program in which i will enter a value in textbox and in view you have show weather the value is odd or even.
+
+
+Create a website
+--home
+--about us
+--contact us form
+--login
+--register form
