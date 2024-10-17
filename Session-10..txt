@@ -1,0 +1,3 @@
+TEXT 101vikash
+JSON  {"Id":101,"Name":"Vikash"}
+XML <employee><id>101</id><name>Vikash</name></employee>

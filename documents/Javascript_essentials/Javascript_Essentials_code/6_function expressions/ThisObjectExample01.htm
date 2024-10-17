@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>This Object Example</title>
+</head>
+<body>
+    <script type="text/javascript">
+
+        var name = "The Window";
+        
+        var object = 
+		{
+            name : "My Object", 
+        
+            getNameFunc : function() // func expression 
+			
+			{
+                return function(){ 
+                    return this.name; 
+                };
+            }
+        };
+        
+        alert(object.getNameFunc()());    // run time context gets first priority.  
+
+    </script>
+ 
+</body>
+</html>

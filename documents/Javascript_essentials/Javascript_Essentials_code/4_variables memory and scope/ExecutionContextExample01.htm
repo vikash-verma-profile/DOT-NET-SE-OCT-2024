@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Execution Context Example 1</title>
+    <script type="text/javascript">
+
+          
+        var color;
+
+        
+        function changeColor() 
+
+{
+
+     var color = "yellow"; // 
+
+
+            if (color === "blue"){  // SCE[changeColor,window] false  
+
+                color = "red";
+            } else {
+                 color = "purple"; 
+            }
+            
+            
+
+
+        }
+        
+        changeColor(); 
+
+        
+
+        console.log("Color is now " + color); //  "purple"
+      
+    </script>
+
+</head>
+<body>
+  
+</body>
+</html>

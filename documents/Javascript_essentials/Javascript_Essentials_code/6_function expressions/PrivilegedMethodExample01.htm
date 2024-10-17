@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Privileged Method Example</title> 
+    </head>
+    <body>
+        <script type="text/javascript">
+        
+            function Person(name){ //constructor
+
+                //var name="undefined"; // private - yes 
+         
+                this.getName = function(){ // privileged method 
+                    return name; //SCE[function(),Person]
+                };
+            
+                this.setName = function (value) {  // privileged method 
+                    name = value;
+                };
+            }
+
+           
+            
+            var person = new Person("Nicholas");
+
+
+
+
+
+            // person{ 
+
+            //   var name="Nicholas" // "Greg" 
+
+            //   this.getName = function(){
+            //         return name;
+            //     };
+            
+            //     this.setName = function (value) {   // "Greg"
+            //         name = value;
+            //     };
+
+
+
+            // }
+
+              alert(person.name);   // undefined  // pvt  
+
+
+            alert(person.getName());   //"Nicholas"
+
+
+            person.setName("Greg");
+
+            alert(person.getName());   //"Greg"  
+
+
+
+
+        </script>
+     
+    </body>
+</html>

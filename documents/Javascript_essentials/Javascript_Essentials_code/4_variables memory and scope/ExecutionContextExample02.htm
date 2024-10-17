@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Execution Context Example 2</title>
+    <script type="text/javascript">
+          
+         color = "blue";   //SCE[window]  //"red"  // anti pattern.
+        
+
+        var anotherColor = "green"; // "green" 
+        
+        function changeColor(){ // SCE[changeColor,window] 
+
+            
+            var anotherColor = "red"; // "white"
+        
+            function swapColors(){ //SCE[swapColors,changeColor,window]  
+
+                 color="white"; 
+                
+                var tempColor = anotherColor; // "red"
+                anotherColor = color;
+                console.log(anotherColor); 
+                color = tempColor;  
+                
+                //color, anotherColor, and tempColor are all accessible here
+            }
+        
+            //color and anotherColor are accessible here, but not tempColor        
+            swapColors();
+        }
+        
+        changeColor();
+
+        //anotherColor and tempColor aren't accessible here, but color is
+        alert("Color is now " + color);
+      
+    </script>
+
+</head>
+<body>
+  
+</body>
+</html>

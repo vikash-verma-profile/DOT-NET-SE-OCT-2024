@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dynamic Properties Example 1</title>
+
+    <script type="text/javascript">
+
+       a=new Object() ; 
+
+       b=a;
+
+       a.x=10; 
+
+       console.log(a.x); // 10 
+
+       console.log(b.x);   // 10 
+
+       a.x=20; 
+
+       console.log(a.x);  // 20 
+
+       console.log(b.x);   // 20
+
+       b.x=30; 
+
+       console.log(a.x); // 30
+
+       console.log(b.x);   // 30 
+
+       b.y=100; 
+
+       console.log(b.y); // 100
+
+       console.log(a.y);   // 100  
+
+
+
+
+
+
+
+ 
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

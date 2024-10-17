@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Closure Example 2</title>
+    </head>
+    <body>
+        <script type="text/javascript">
+        
+            function createFunctions(){
+                var result = new Array(); // [function(){retu}]
+                
+                
+                for (var i=0; i < 10; i++){
+                    result[i] = function(num){ // IIFE / i / 0 
+                        return function(){   
+                            return num;
+                        };
+                    }(i);
+                }
+                
+                return result;
+            }
+            
+            var funcs = createFunctions();
+            
+            //every function outputs 10
+            for (var i=0; i < funcs.length; i++){
+                document.write(funcs[i]() + "<br />"); 
+            }
+
+        </script>
+     
+    </body>
+</html>
