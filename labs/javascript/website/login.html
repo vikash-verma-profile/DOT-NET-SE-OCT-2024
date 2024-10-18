@@ -7,7 +7,7 @@
 
 <body>
 </body>
-<nav class="navbar navbar-expand-lg bg-body-tertiary">
+<nav class="navbar navbar-expand navbar-dark  bg-dark">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Sample</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
@@ -25,10 +25,10 @@
         <li class="nav-item">
           <a class="nav-link" href="contactus.html">Contact Us</a>
         </li>
-        <li class="nav-item">
+        <li class="nav-item" id="login">
           <a class="nav-link" href="login.html">Login</a>
         </li>
-        <li class="nav-item">
+        <li class="nav-item" id="register">
           <a class="nav-link" href="register.html">Register</a>
         </li>
       </ul>
@@ -46,7 +46,7 @@
     <input type="password" class="form-control" id="txtPassword" placeholder="enter password">
   </div>
   <div class="col-auto">
-    <button type="submit" class="btn btn-primary mb-3">Login</button>
+    <button type="submit" class="btn btn-primary mb-3" onclick="login()">Login</button>
   </div>
 </div>
 
@@ -54,3 +54,4 @@
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
   integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+  <script src="js/main.js"></script>
