@@ -1,0 +1,24 @@
+ADD A COLUMN NAME EMPID
+
+CREATE A PROCEDURE TO INSERT EMPLOYEEDATA AND EMPID SHOULD BE IN FORMAT 
+
+EMP+(LAST_INSERT_ID)
+
+EMP10;
+SALARY
+10000.00
+
+
+You are working on a database for an e-commerce platform. Your task is to create a simple stored procedure that retrieves a list of orders placed by a customer based on their CustomerID.
+
+Requirements:
+Write a stored procedure that:
+
+Accepts a CustomerID as input.
+Retrieves all orders placed by the customer from the Orders table.
+Returns the OrderID, OrderDate, and TotalValue for each order.
+Tables Involved:
+Customers (CustomerID, CustomerName, Email, etc.)
+Orders (OrderID, CustomerID, OrderDate, TotalValue)
+Expected Outcome:
+The stored procedure should return a list of orders for the provided CustomerID, showing the order details.
