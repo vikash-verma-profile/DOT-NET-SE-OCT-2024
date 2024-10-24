@@ -7,7 +7,7 @@ Microsoft.EntityFrameworkCore.Tools
 
 Command to get db object in c#
 
-Scaffold-DbContext "Server=DESKTOP-HVUT504;Initial Catalog=SAMPLEDB;Integrated Security=True;Trust Server Certificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Model
+Scaffold-DbContext "Server=DESKTOP-HVUT504;Initial Catalog=ProductDB;Integrated Security=True;Trust Server Certificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Model
 
 Add-Migration <any-name>
 Update-Database
