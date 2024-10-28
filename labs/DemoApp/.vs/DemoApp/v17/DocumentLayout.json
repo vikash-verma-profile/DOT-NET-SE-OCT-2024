@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{68C6FDD4-896B-4893-BE03-605862014B88}|DemoApp\\DemoApp.csproj|c:\\users\\level up solutions 1\\desktop\\dot-net-se-oct-2024\\labs\\demoapp\\demoapp\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{68C6FDD4-896B-4893-BE03-605862014B88}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C6FDD4-896B-4893-BE03-605862014B88}|DemoApp\\DemoApp.csproj|c:\\users\\level up solutions 1\\desktop\\dot-net-se-oct-2024\\labs\\demoapp\\demoapp\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68C6FDD4-896B-4893-BE03-605862014B88}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Level Up Solutions 1\\Desktop\\DOT-NET-SE-OCT-2024\\labs\\DemoApp\\DemoApp\\Views\\Login\\Index.cshtml",
-              "RelativeDocumentMoniker": "DemoApp\\Views\\Login\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Level Up Solutions 1\\Desktop\\DOT-NET-SE-OCT-2024\\labs\\DemoApp\\DemoApp\\Views\\Login\\Index.cshtml",
-              "RelativeToolTip": "DemoApp\\Views\\Login\\Index.cshtml",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAoAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-24T07:39:28.557Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -41,9 +32,35 @@
               "RelativeDocumentMoniker": "DemoApp\\Controllers\\LoginController.cs",
               "ToolTip": "C:\\Users\\Level Up Solutions 1\\Desktop\\DOT-NET-SE-OCT-2024\\labs\\DemoApp\\DemoApp\\Controllers\\LoginController.cs",
               "RelativeToolTip": "DemoApp\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T07:38:20.8Z",
+              "WhenOpened": "2024-10-28T04:47:16.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Level Up Solutions 1\\Desktop\\DOT-NET-SE-OCT-2024\\labs\\DemoApp\\DemoApp\\Views\\Login\\Register.cshtml",
+              "RelativeDocumentMoniker": "DemoApp\\Views\\Login\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Level Up Solutions 1\\Desktop\\DOT-NET-SE-OCT-2024\\labs\\DemoApp\\DemoApp\\Views\\Login\\Register.cshtml",
+              "RelativeToolTip": "DemoApp\\Views\\Login\\Register.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T04:46:54.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Level Up Solutions 1\\Desktop\\DOT-NET-SE-OCT-2024\\labs\\DemoApp\\DemoApp\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "DemoApp\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Level Up Solutions 1\\Desktop\\DOT-NET-SE-OCT-2024\\labs\\DemoApp\\DemoApp\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "DemoApp\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T04:46:38.38Z",
               "EditorCaption": ""
             }
           ]

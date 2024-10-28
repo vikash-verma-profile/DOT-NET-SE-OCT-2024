@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model IEnumerable<Ecommerce.Webapp.Models.Product>
+<div class="row">
+   
+        @foreach (var item in Model)
+        {
+        <div class="col-sm-6 mb-3">
+            <div class="card" style="width: 18rem;">
+                <img src="../wwwroot/css/image.jpeg" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">@item.ProductName</h5>
+                    <p class="card-text">@item.ProductDescription</p>
+                    <p class="card-text">@item.Price</p>
+                    <a class="btn btn-primary" asp-controller="order" asp-action="index" asp-route-id="@item.Id">Buy Now</a>
+                </div>
+            </div>
+        </div>
+        }
+   
+</div>

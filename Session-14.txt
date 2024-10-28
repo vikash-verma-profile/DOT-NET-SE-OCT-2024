@@ -1,0 +1,8 @@
+HTTP VERBS
+-GET==> get the date
+-POST==> send some date
+-PUT==> update the data 
+-DELETE==>delete data at server
+
+localhost/api/Login
+localhost/api/Login

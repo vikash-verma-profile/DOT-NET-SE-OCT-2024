@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ICFTPX7Xg9w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Level Up Solutions 1\\Desktop\\DOT-NET-SE-OCT-2024\\labs\\Ecommerce\\Ecommerce.Webapp\\Ecommerce.Webapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Level Up Solutions 1\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
