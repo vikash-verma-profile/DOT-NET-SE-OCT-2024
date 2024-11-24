@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Level Up Solutions 1\\Desktop\\DOT-NET-SE-OCT-2024\\labs\\Ecommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{600778F2-162A-4145-BA90-7FEEC04EBDE4}|Ecommerce.Webapp\\Ecommerce.Webapp.csproj|c:\\users\\level up solutions 1\\desktop\\dot-net-se-oct-2024\\labs\\ecommerce\\ecommerce.webapp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{600778F2-162A-4145-BA90-7FEEC04EBDE4}|Ecommerce.Webapp\\Ecommerce.Webapp.csproj|solutionrelative:ecommerce.webapp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3F576E3-19C6-4F4E-8E50-871104926A3C}|Ecommerce.WebApi\\Ecommerce.WebApi.csproj|c:\\users\\level up solutions 1\\desktop\\dot-net-se-oct-2024\\labs\\ecommerce\\ecommerce.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F576E3-19C6-4F4E-8E50-871104926A3C}|Ecommerce.WebApi\\Ecommerce.WebApi.csproj|solutionrelative:ecommerce.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F576E3-19C6-4F4E-8E50-871104926A3C}|Ecommerce.WebApi\\Ecommerce.WebApi.csproj|c:\\users\\level up solutions 1\\desktop\\dot-net-se-oct-2024\\labs\\ecommerce\\ecommerce.webapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F576E3-19C6-4F4E-8E50-871104926A3C}|Ecommerce.WebApi\\Ecommerce.WebApi.csproj|solutionrelative:ecommerce.webapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3F576E3-19C6-4F4E-8E50-871104926A3C}|Ecommerce.WebApi\\Ecommerce.WebApi.csproj|c:\\users\\level up solutions 1\\desktop\\dot-net-se-oct-2024\\labs\\ecommerce\\ecommerce.webapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3F576E3-19C6-4F4E-8E50-871104926A3C}|Ecommerce.WebApi\\Ecommerce.WebApi.csproj|solutionrelative:ecommerce.webapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{600778F2-162A-4145-BA90-7FEEC04EBDE4}|Ecommerce.Webapp\\Ecommerce.Webapp.csproj|c:\\users\\level up solutions 1\\desktop\\dot-net-se-oct-2024\\labs\\ecommerce\\ecommerce.webapp\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{600778F2-162A-4145-BA90-7FEEC04EBDE4}|Ecommerce.Webapp\\Ecommerce.Webapp.csproj|solutionrelative:ecommerce.webapp\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OrderViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Level Up Solutions 1\\Desktop\\DOT-NET-SE-OCT-2024\\labs\\Ecommerce\\Ecommerce.Webapp\\Models\\OrderViewModel.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Webapp\\Models\\OrderViewModel.cs",
-              "ToolTip": "C:\\Users\\Level Up Solutions 1\\Desktop\\DOT-NET-SE-OCT-2024\\labs\\Ecommerce\\Ecommerce.Webapp\\Models\\OrderViewModel.cs",
-              "RelativeToolTip": "Ecommerce.Webapp\\Models\\OrderViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T12:30:38.886Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\Level Up Solutions 1\\Desktop\\DOT-NET-SE-OCT-2024\\labs\\Ecommerce\\Ecommerce.Webapp\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Webapp\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\Level Up Solutions 1\\Desktop\\DOT-NET-SE-OCT-2024\\labs\\Ecommerce\\Ecommerce.Webapp\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "Ecommerce.Webapp\\Controllers\\OrderController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAowAoAAAAIAAAA",
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Level Up Solutions 1\\Desktop\\DOT-NET-SE-OCT-2024\\labs\\Ecommerce\\Ecommerce.WebApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Ecommerce.WebApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Level Up Solutions 1\\Desktop\\DOT-NET-SE-OCT-2024\\labs\\Ecommerce\\Ecommerce.WebApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Ecommerce.WebApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T12:30:11.994Z",
+              "WhenOpened": "2024-11-12T07:15:33.883Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Level Up Solutions 1\\Desktop\\DOT-NET-SE-OCT-2024\\labs\\Ecommerce\\Ecommerce.WebApi\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Ecommerce.WebApi\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Level Up Solutions 1\\Desktop\\DOT-NET-SE-OCT-2024\\labs\\Ecommerce\\Ecommerce.WebApi\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Ecommerce.WebApi\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:15:27.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "OrdersController.cs",
               "DocumentMoniker": "C:\\Users\\Level Up Solutions 1\\Desktop\\DOT-NET-SE-OCT-2024\\labs\\Ecommerce\\Ecommerce.WebApi\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "Ecommerce.WebApi\\Controllers\\OrdersController.cs",
               "ToolTip": "C:\\Users\\Level Up Solutions 1\\Desktop\\DOT-NET-SE-OCT-2024\\labs\\Ecommerce\\Ecommerce.WebApi\\Controllers\\OrdersController.cs",
               "RelativeToolTip": "Ecommerce.WebApi\\Controllers\\OrdersController.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAIAwwFkAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T12:28:24.258Z",
               "EditorCaption": ""
